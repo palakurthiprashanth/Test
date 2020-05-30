@@ -7,8 +7,8 @@ So, is it possible to run an asynchronous code in JavaScript?
 
 This is where the setTimeout function comes into play. It is a web API provided by the browser that takes a callback function as its first parameter and time in milliseconds as its second parameter. It executes the callback function after the specified number of milliseconds pass.
 
-Let’s take a look at an example:
-[ eventloop.js ]
+## Let’s take a look at an example:
 
-Screen Shot 2020-05-30 at 9.22.55 AM
-Screenshot 2020-05-21 at 12.03.50 PM.png
+[ eventloop.js }
+
+https://medium.com/@Rahulx1/understanding-event-loop-call-stack-event-job-queue-in-javascript-63dcd2c71ecd
